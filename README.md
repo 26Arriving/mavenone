@@ -1,0 +1,2 @@
+# mavenone
+testMavenProject
